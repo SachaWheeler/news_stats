@@ -1,0 +1,37 @@
+BBC News
+RSS Feed: http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/front_page/rss.xml
+
+The New York Times
+RSS Feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+
+Reuters
+RSS Feed: http://feeds.reuters.com/reuters/topNews
+
+CNN
+RSS Feed: http://rss.cnn.com/rss/cnn_topstories.rss
+
+The Guardian
+RSS Feed: https://www.theguardian.com/world/rss
+
+Associated Press
+RSS Feed: http://hosted.ap.org/lineups/TOPHEADS-rss_2.0.xml
+
+Al Jazeera English
+RSS Feed: https://www.aljazeera.com/xml/top_stories.xml
+
+NPR (National Public Radio)
+RSS Feed: https://www.npr.org/rss/rss.php?id=1001
+
+The Washington Post
+RSS Feed: http://www.washingtonpost.com/wp-dyn/rss/index.xml
+
+CNBC
+RSS Feed: https://www.cnbc.com/id/100003114/device/rss/rss.xml
+
+Please note that the availability of RSS feeds may change, and some websites may no longer provide RSS feeds or may use different URLs. It's a good practice to check the respective news websites for the most current RSS feed links if you intend to use them in your applications or RSS reader.
+
+
+
+
+
+
